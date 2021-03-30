@@ -1,0 +1,12 @@
+				[
+					[pauseLeft, top + pauseGap],
+					[this._halfSize - pauseGap, top + pauseGap],
+					[this._halfSize - pauseGap, bottom - pauseGap],
+					[pauseLeft, bottom - pauseGap]
+				],
+				[
+					[this._halfSize + pauseGap, top + pauseGap],
+					[pauseRight, top + pauseGap],
+					[pauseRight, bottom - pauseGap],
+					[this._halfSize + pauseGap, bottom - pauseGap]
+				] 
